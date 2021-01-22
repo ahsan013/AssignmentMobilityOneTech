@@ -9,10 +9,10 @@ In the light of provided document, first of all, I created the database with the
 Create DataBase MobilityOne_Dev
 Go
 After that I need to create the table for database and the table name is users. The following script will create the table in database with the following table structure
+
+-------------------------------------------------------------------------------------
 USE [MobilityOne_Dev]
 GO
-
-/****** Object:  Table [dbo].[Users]    Script Date: 22-Jan-21 3:06:10 AM ******/
 SET ANSI_NULLS ON
 GO
 SET QUOTED_IDENTIFIER ON
